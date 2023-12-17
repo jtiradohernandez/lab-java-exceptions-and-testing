@@ -23,7 +23,7 @@ Once you finish the assignment, submit a URL link to your repository or your pul
 
 ## Set Up
 
-Combine the 2 labs `4.02` and `4.04` and then copy the code to your new repository.
+Combine the 2 labs Intro to Spring Boot (4.02) and Add and Update (4.04) and then copy the code to your new repository.
 
 <br>
 
